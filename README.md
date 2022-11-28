@@ -51,4 +51,18 @@ topics which i have learnt in networking
 17 some basic LINUX commands
 
 
+these networking topics i have studied in last 2-3 months.  curnetly on 28/11/22 i started to write my hacking journey  from where i started 
+
+
+---------------NMAP---------------
+
+
+Before 1-2 weeks i started to learn to use namp as a bigginer .
+
+What is NMAP?
+
+NMAP is a network scanner tool created by GORDON LYON NMAP is used to discover host and services on a computer , network or a server . NMAP is a best tool to get all information about open,closed and filtered ports in host device which can used by a ethical hacker to find threates on host  thanks for reading this blog
+tommarow i will give other information about my journey and what cruntely i am learning
+
+once again THANK YOU VERY MUCH 
 
