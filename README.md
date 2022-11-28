@@ -16,8 +16,10 @@ i have learnt networking from youtube,and some websites [Try Hack Me , Greek For
 
 topics which i have learnt in networking 
 
-  THE INTERNET AND THE WEB, WEB URL/URLS CLIENT and SERVER SIDE HTTP REQUEST
- BASIC IOT/IOE
+1 THE INTERNET AND THE WEB, WEB URL/URLS CLIENT and SERVER SIDE HTTP REQUEST
+
+2 BASIC IOT/IOE
+
 3 TRANSMISSION MODES IN NETWORKING 
 
 4 TYPES OF TRANSMISSION MEADIA 
@@ -25,9 +27,28 @@ topics which i have learnt in networking
 5 TYPES OF CASTING in COMPUTER 
 
 6 introduction to BASIC NETWORKING and TYPES OF NETWORK TOPOLOGY
+
 7 TYPES OF AREA NETWORKS  [LAN,MAN WAN]
+
 8 TYPES OF NETWORK ACCESS
+
 9 OSI MODEL AND TCP/IP MODEL 
+
 10 HTTP VS HTTPS
+
 11 DNS and DNS SERVER
+
 12 some NETWORKING CABLES
+
+13 lan topologies
+
+14 ARP PROTOCOL , DHCP discover ,DOMAIN HIERARCHY
+
+15 TLD,SLD, SUBDOMAIN ,DNS RECORD ,what happen when you make a DNS request
+
+16 HTTP REQUEST and RESPONSE , HTTP methods , HTTP STATUS CODE , HEADERS, COOKIE 
+
+17 some basic LINUX commands
+
+
+
