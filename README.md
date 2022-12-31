@@ -66,3 +66,32 @@ tommarow i will give other information about my journey and what cruntely i am l
 
 once again THANK YOU VERY MUCH 
 
+
+------------------
+
+DATE 31/12/2022
+
+------------------
+
+
+Hii today is the last day of this year 2022 .
+
+
+from last 1 months i am learning to usebrupsuite , i am not too much good in burpsuite but as a  biggner and i learan many things     
+
+1  repeter module
+
+2  intruder module [ brutforce]
+
+3 target module [ session token generation ]
+
+4 request capcutreing 
+
+5 hidden parameters 
+
+
+after 1 or 2 weeks later and practicing burpsuite , i will start to learn OWASP TOP 10 and [ javascript,html,] and XSS 
+ and HAPPY NEW YEAR 2023
+
+
+
