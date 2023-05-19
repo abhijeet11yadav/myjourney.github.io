@@ -14,7 +14,7 @@ i am biggner in cyber security field . and in starting i dont know how i can sta
 in practicaly in this fIELD i spent 2 months in this field to learn networking which is most important thigs in this field .
 i have learnt networking from youtube,and some websites [Try Hack Me , Greek For Greek
 
-topics which i have learnt in networking 
+topics which i have learnt in networking
 
 1 THE INTERNET AND THE WEB, WEB URL/URLS CLIENT and SERVER SIDE HTTP REQUEST
 
@@ -92,6 +92,11 @@ from last 1 months i am learning to usebrupsuite , i am not too much good in bur
 
 after 1 or 2 weeks later and practicing burpsuite , i will start to learn OWASP TOP 10 and [ javascript,html,] and XSS 
  and HAPPY NEW YEAR 2023
+ 
+ 
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
 
 
 
